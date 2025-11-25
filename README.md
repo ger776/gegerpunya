@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Alvalens Porto 2
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=aleph-discord-bot.visitor-badge)
@@ -114,3 +115,6 @@ Contributions are welcome! If you find any issues or have suggestions, feel free
 This project is licensed under the GPL-3.0 License see the [LICENSE](LICENSE) file for details.
 
 Copyright (C) 2025 Alvalen Shafelbilyunazra
+=======
+# gegerpunya
+>>>>>>> f6c48645f00c3bbb41eed36be4a5af181f471e74
