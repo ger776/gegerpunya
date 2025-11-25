@@ -224,14 +224,14 @@ const MyPage = () => {
 											src={ProjectAll}
 											layout="fill"
 											className="object-cover"
-											alt="Alvalens Setup"
+											alt="Geraldin Setup"
 											placeholder="blur"
 										/>
 									</motion.div>
 								</div>
 								<div className="z-10 w-full absolute md:w-auto  md:left-[10%] top-[60%] md:top-1/3 col-span-2 flex flex-col justify-center items-start md:items-start text-start px-10 py-5">
 									<motion.h1
-										className="bg-white lg:bg-transparent bg-opacity-50 px-3 md-px-0 text-black text-5xl md:text-8xl font-bold"
+										className="bg-white lg:bg-transparent bg-opacity-50 px-3 md-px-0 text-black text-5xl md:text-4xl font-bold"
 										initial={{ x: -100, opacity: 0 }}
 										whileInView={{ x: 0, opacity: 1 }}
 										transition={{
