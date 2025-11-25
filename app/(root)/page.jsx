@@ -238,18 +238,18 @@ const MyPage = () => {
 											delay: 0.1,
 											type: "spring",
 										}}>
-										My Projects
+										Experience & Achievements
 									</motion.h1>
 									<Hr />
 									<motion.p
-										className="title  text-xl mt-4 tracking-wider text-gray-500 leading-[1.7rem] mb-5"
+										className="title  text-base mt-4 tracking-wider text-gray-500 leading-[1.7rem] mb-5"
 										initial={{ x: -100, opacity: 0 }}
 										whileInView={{ x: 0, opacity: 1 }}
 										transition={{
 											delay: 0.2,
 											type: "spring",
 										}}>
-										This is some of my projects that I have done{" "}
+										This is some of my experience & achievements that I have done{" "}
 										<span className="bg-transparent md:bg-gray-100 bg-opacity-50 xl:bg-transparent">
 											{" "}
 											and currently working on.
