@@ -57,7 +57,7 @@ export default function About() {
 								transition={{ delay: 0.3 }}
 								className="w-full h-full">
 								<Image
-									src={Me2}
+									src={Me4}
 									alt="Alvalens"
 									layout="fill"
 									objectFit="cover"
