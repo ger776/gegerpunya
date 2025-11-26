@@ -107,37 +107,37 @@ export default function About() {
 
 						type: "spring",
 					}}>
-					<h2 className="text-2xl font-bold tracking-wider mb-3">
-						Alvalen Shafelbilyunazra
+					<h2 className="text-xl font-bold tracking-wider mb-3">
+						Geraldin Andira Cahyarani Putri
 					</h2>
 					<p className="text-gray-600 text-justify title text-lg">
 						Hey there, I&rsquo;m Geraldin Andira Cahyarani Putri, a
 						<span className="text-black font-medium">
 							{" "}
-							passionate Web Developer
+							passionate Hydrogeologist
 						</span>{" "}
 						with a growing expertise in
 						<span className="text-black font-medium">
 							{" "}
-							Artificial Intelligence.
+							Data Analyst and Data Science.
 						</span>{" "}
-						Hailing from Pasuruan, East Java, Indonesia, I&rsquo;m currently
-						pursuing my degree in{" "}
+						Hailing from Yogyakarta, Indonesia, I took bachelor's degree in
+						{" "}
 						<span className="text-black font-medium">
-							Computer Science
+							Meteorology 
+						</span>{" "}
+						and master's degree
+						{" "}
+						<span className="text-black font-medium">
+							in Groundwater Engineering
 						</span>{" "}
 						at{" "}
 						<span className="text-black font-medium">
-							Universitas Negeri Malang.
+							Bandung Institut of Techology.
 						</span>{" "}
-						My work bridges modern web technologies and intelligent systems—from
-						building responsive, scalable websites to exploring generative AI
-						and LLM-based solutions. Beyond development, I stay curious about
-						design and emerging technologies. In today&rsquo;s ever-changing
-						digital landscape, I believe being a
-						<span className="text-black font-medium"> lifelong learner</span> is
-						essential. Let&rsquo;s connect and explore the evolving intersection
-						of web and AI together!
+						Trained in meteorology and hydrology, I developed strong experience in field data collection, Python-based analysis, and data science workflows. I enjoy working with data to uncover patterns, solve complex problems, and support decision-making across scientific and technical projects.
+						I believe that being a
+						<span className="text-black font-medium"> lifelong learner</span> is essential in today&rsquo;s dynamic professional landscape. I&rsquo;m always eager to explore opportunities that bridge science, data, and technology.
 					</p>
 					<Card />
 				</motion.div>
