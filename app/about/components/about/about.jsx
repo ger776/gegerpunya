@@ -2,7 +2,7 @@ import Image from "next/image";
 import Card from "./spotify/card";
 import { motion } from "framer-motion";
 import Me1 from "@/public/image/me1.jpg";
-import Me2 from "@/public/image/me2.jpeg";
+import Me4 from "@/public/image/me4.jpg";
 import Me3 from "@/public/image/me3.jpg";
 import Hr from "@/components/Hr";
 
