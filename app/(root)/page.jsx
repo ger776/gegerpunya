@@ -60,7 +60,7 @@ const MyPage = () => {
 										</div>
 									</div>
 									<motion.h3
-										className="uppercase text-xl mb-3 font-normal text tracking-[.5rem] text-gray-500"
+										className="uppercase text-base mb-3 font-normal text tracking-[.5rem] text-gray-500"
 										initial={{ x: -100, opacity: 0 }}
 										whileInView={{ x: 0, opacity: 1 }}
 										transition={{
