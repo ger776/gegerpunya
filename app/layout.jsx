@@ -9,42 +9,41 @@ import Chat from "@/components/Chat";
 import ClientTopProgressBar from "@/components/ClientTopProgressBar";
 
 export const metadata = {
-    title: "Alvalens | Portofolio",
+    title: "Geraldin | Portofolio",
 
     description:
-		"My name is Alvalens, I'm a web developer and I'm passionate about it. I'm currently studying at Universitas Negeri Malang.",
+		"My name is Geraldin, I'm a meteorologist and hydrogeologist from Bandung Institut of Technology. I'm passionate about data analyst, data science, and also eager to learn anything new.",
 
-    author: "Alvalen Shafelbilyunazra",
-    siteUrl: "https://www.alvalens.my.id",
-    applicationName: "Alvalens",
+    author: "Geraldin Andira Cahyarani Putri",
+    applicationName: "Geraldin",
 
     keywords: [
-		"alvalens",
-		"alvalen",
-		"alvalen shafel",
-		"shafel",
-		"alvalen shafelbilyunazra",
-		"alvalen shafel bilyunazra",
+		"Geraldin",
+		"Geraldin",
+		"Geraldin Andira",
+		"Andira",
+		"Geraldin Andira Cahyarani Putri",
+		"Geraldin Andira Cahyarani Putri",
 		"bloodfallen",
-		"alvalen porto",
-		"alvalen um",
+		"Geraldin porto",
+		"Geralidn um",
 	],
 
     openGraph: {
 		type: "website",
-		url: "https://www.alvalens.my.id",
+		url: "https://https://geraldin-portfolio.com/",
 		title: "Alvalens | Portofolio",
-		site_name: "Alvalens | Portofolio",
-		description: "My name is Alvalens, This is my portofolio website.",
+		site_name: "Geraldin | Portofolio",
+		description: "My name is Geraldin, This is my portofolio website.",
 		width: 1200,
 		height: 630,
 		images: [
 			{
 				url: "/og-image-rev.png",
-				alt: "Alvalens Portofolio",
+				alt: "Geraldin Portofolio",
 			},
 		],
-		site_name: "Alvalens | Portofolio",
+		site_name: "Geraldin | Portofolio",
 	}
 };
 
