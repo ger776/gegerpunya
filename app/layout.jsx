@@ -31,7 +31,7 @@ export const metadata = {
 
     openGraph: {
 		type: "website",
-		url: "https://https://geraldin-portfolio.com/",
+		url: "https://bit.ly/Geraldin-Portfolio/",
 		title: "Alvalens | Portofolio",
 		site_name: "Geraldin | Portofolio",
 		description: "My name is Geraldin, This is my portofolio website.",
