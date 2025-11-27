@@ -48,11 +48,11 @@ const MyPage = () => {
 										type: "spring",
 									}}>
 									<div className="block md:hidden col-span-1 mx-auto my-10">
-										<div className="bg-slate-500 rounded-full h-60 w-60 grayscale hover:grayscale-0 transition-all ease duration-300">
+										<div className="bg-slate-500 rounded-full h-94 w-94 grayscale hover:grayscale-0 transition-all ease duration-300">
 											<Image
 												src={Me}
-												width={500}
-												height={500}
+												width={1000}
+												height={1000}
 												className="rounded-full w-full h-full object-cover "
 												alt="Geraldin"
 												placeholder="blur"
@@ -123,8 +123,8 @@ const MyPage = () => {
 									<div className="rounded-full h-auto w-auto  lg:px-12 grayscale hover:grayscale-0 transition-all ease duration-300">
 										<Image
 											src={Me}
-											width={400}
-											height={550}
+											width={1200}
+											height={2500}
 											placeholder="blur"
 											alt="Geraldin"
 											className="rounded-full w-full h-full object-cover"
