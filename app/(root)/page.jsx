@@ -312,18 +312,20 @@ const MyPage = () => {
 									</motion.h1>
 									<Hr />
 									<motion.p
-										className="title text-xl mt-4 tracking-wider text-gray-500 leading-[1.7rem] md:mb-5"
-										initial={{ x: -100, opacity: 0 }}
-										whileInView={{ x: 0, opacity: 1 }}
-										transition={{
-											delay: 0.2,
-											type: "spring",
-										}}>
-										Feel free to contact me if you have any{" "}
-										<span className="bg-transparent md:bg-gray-100 bg-opacity-50 xl:bg-transparent">
-											questions or just want to say hi.
-										</span>
-									</motion.p>
+  className="title text-xl mt-4 tracking-wider text-gray-800 relative z-20 leading-[1.7rem] md:mb-5"
+  initial={{ x: -100, opacity: 0 }}
+  whileInView={{ x: 0, opacity: 1 }}
+  transition={{
+    delay: 0.2,
+    type: "spring",
+  }}
+>
+  Feel free to contact me if you have any{" "}
+  <span className="bg-transparent md:bg-gray-100 bg-opacity-50 xl:bg-transparent">
+    questions or just want to say hi.
+  </span>
+</motion.p>
+
 									<motion.p
 										className="title text-xl mt-4 tracking-wider text-gray-500 leading-[1.7rem] mb-5"
 										initial={{ x: -100, opacity: 0 }}
