@@ -19,9 +19,9 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faChevronLeft } from "@fortawesome/free-solid-svg-icons";
 
 const category = {
-	1: "Data Analyst",
+	1: "",
 	2: "",
-	9: "Other",
+	9: "",
 };
 
 export default function Page() {
@@ -198,7 +198,7 @@ export default function Page() {
 								delay: 0.7,
 								type: "spring",
 							}}>
-							Other Note Worthy Projects
+							
 						</motion.h1>
 					</div>
 				</div>
@@ -242,19 +242,7 @@ export default function Page() {
 					))}
 				</div>
 
-				{/* view in archive btn */}
-				<motion.div
-					initial={{
-						opacity: 0,
-					}}
-					whileInView={{
-						opacity: 1,
-					}}
-					className="flex justify-center items-center flex-col my-5 self-start ">
-					<Button variation="primary">
-						<Link href="projects/archive">View In Archive</Link>
-					</Button>
-				</motion.div>
+				
 			</main>
 		</>
 	);
