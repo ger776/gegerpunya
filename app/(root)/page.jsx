@@ -18,10 +18,10 @@ import ProjectAll from "@/public/image/projects.jpeg" 	;
 import Hr from "@/components/Hr";
 // icons
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faGithub } from "@fortawesome/free-brands-svg-icons";
+
 import { faInstagram } from "@fortawesome/free-brands-svg-icons";
 import { faLinkedin } from "@fortawesome/free-brands-svg-icons";
-import { faDiscord } from "@fortawesome/free-brands-svg-icons";
+
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
 
 const MyPage = () => {
