@@ -242,7 +242,7 @@ const MyPage = () => {
 									</motion.h1>
 									<Hr />
 									<motion.p
-										className="title  text-base mt-4 tracking-wider text-gray-500 leading-[1.7rem] mb-5"
+										className="title  text-xl mt-4 tracking-wider text-gray-500 leading-[1.7rem] mb-5"
 										initial={{ x: -100, opacity: 0 }}
 										whileInView={{ x: 0, opacity: 1 }}
 										transition={{
