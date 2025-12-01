@@ -109,7 +109,7 @@ export default function Education() {
 						initial={{ opacity: 0, x: -50 }}
 						whileInView={{ opacity: 1, x: 0 }}
 						transition={{ duration: 0.8, delay: 0.2 }}>
-						<div className="font-medium text-lg mb-4">2020 - 2023</div>
+						<div className="font-medium text-lg mb-4">2020 - 2025</div>
 						<div>
 							<h2 className="font-semibold text-xl">
 								Institut Teknologi Bandung
@@ -118,7 +118,7 @@ export default function Education() {
 								S1 Meteorologi | Meteorology
 							</h3>
 							<h4 className="text-md font-normal mb-3">
-								S2 Teknik Air Tanah | Groundwater Engineering
+								S2 Teknik Air Tanah | Groundwater Engineering (Fast Track Programme)
 							</h4>
 							</div>
 							<div className="gap-4 mb-4 flex items-stretch md:h-[300px] xl:h-[400px]">

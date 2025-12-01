@@ -1,5 +1,4 @@
 import Image from "next/image";
-import Card from "./spotify/card";
 import { motion } from "framer-motion";
 import Me1 from "@/public/image/me1.jpg";
 import Me4 from "@/public/image/me4.jpg";
@@ -143,7 +142,7 @@ export default function About() {
 					opportunities that bridge science, data, and technology.
 					</p>
 
-					<Card />
+				
 				</motion.div>
 			</div>
 		</>
