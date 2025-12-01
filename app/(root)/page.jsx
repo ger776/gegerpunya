@@ -13,8 +13,8 @@ import Link from "next/link";
 import Button from "@/components/Button";
 import Me from "@/public/image/me.jpg";
 import MeAbout from "@/public/image/me2.jpeg";
-import Setup from "@/public/image/setup.jpg";
-import ProjectAll from "@/public/image/projects.png";
+import Setup from "@/public/image/setup.jpeg";
+import ProjectAll from "@/public/image/projects.jpeg" 	;
 import Hr from "@/components/Hr";
 // icons
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";

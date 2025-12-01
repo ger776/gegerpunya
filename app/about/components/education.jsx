@@ -46,85 +46,29 @@ export default function Education() {
 		2025: [
 			{
 				icon: faMedal,
-				title: "1st place (Gold Medal)",
-				subtitle: "Fesmaro IT Business Competition",
-				date: "Mar 2025",
+				title: "Presenter",
+				subtitle: "The 7th annual meeting of the Indonesian Association of Groundwater Experts (PAAI) in conjuction with the 8th bi-annual meeting of Asia Pacific Coastal Aquifer Management Meeting",
+				date: "4-6 August 2025",
 				color: "from-yellow-400 to-orange-500",
 			},
-			{
-				icon: faAward,
-				title: "Finalist",
-				subtitle: "Hackfest Build to Billion 2025",
-				date: "Apr 2025",
-				color: "from-blue-500 to-purple-600",
-			},
-			{
-				icon: faMedal,
-				title: "3rd place (Bronze Medal)",
-				subtitle: "Faculty of Engineering Most Outstanding Student",
-				date: "Feb 2025",
-				color: "from-amber-600 to-yellow-600",
-			},
-		],
+			],
 		2024: [
 			{
 				icon: faTrophy,
-				title: "Special Award | Gold Medal | Incubation Opportunity",
-				subtitle: "Indonesia Inventor Day 2024 (IID)",
-				date: "Aug 2024",
+				title: "Presenter",
+				subtitle: "3rd International Seminar of Earth Sciences and Technology",
+				date: "17-18 Sept 2024",
 				color: "from-yellow-400 to-orange-500",
-			},
-			{
-				icon: faMedal,
-				title: "1st place (Gold Medal)",
-				subtitle: "Tech & Trade Expo 2024",
-				date: "Jul 2024",
-				color: "from-yellow-400 to-orange-500",
-			},
-			{
-				icon: faMedal,
-				title: "2nd place (Silver Medal)",
-				subtitle: "IdeaFest 2024",
-				date: "Jul 2024",
-				color: "from-slate-400 to-slate-500",
-			},
-			{
-				icon: faAward,
-				title: "Finalist",
-				subtitle: "37th National Student Science Week (PIMNAS)",
-				date: "Oct 2024",
-				color: "from-blue-500 to-purple-600",
-			},
-			{
-				icon: faMedal,
-				title: "3rd place (Bronze Medal)",
-				subtitle: "Student Digital Innovation Competition (LIDM)",
-				date: "Jun 2024",
-				color: "from-amber-600 to-yellow-600",
-			},
-			{
-				icon: faMedal,
-				title: "3rd place (Bronze Medal)",
-				subtitle: "Fesmaro UI/UX Design",
-				date: "Jun 2024",
-				color: "from-amber-600 to-yellow-600",
-			},
+			}
 		],
 		2023: [
 			{
 				icon: faAward,
-				title: "Finalist",
-				subtitle: "36th National Student Science Week (PIMNAS)",
-				date: "Nov 2023",
+				title: "President",
+				subtitle: "October's Graduation Event 2023 Bandung Institut of Bandung",
+				date: "Oct 2023",
 				color: "from-blue-500 to-purple-600",
-			},
-			{
-				icon: faMedal,
-				title: "3rd place (Bronze Medal)",
-				subtitle: "FORKAFEST 3.0 Web Development competition",
-				date: "Jan 2023",
-				color: "from-amber-600 to-yellow-600",
-			},
+			}
 		],
 	};
 
@@ -165,14 +109,18 @@ export default function Education() {
 						initial={{ opacity: 0, x: -50 }}
 						whileInView={{ opacity: 1, x: 0 }}
 						transition={{ duration: 0.8, delay: 0.2 }}>
-						<div className="font-medium text-lg mb-4">2022 - Present</div>
+						<div className="font-medium text-lg mb-4">2020 - 2023</div>
 						<div>
 							<h2 className="font-semibold text-xl">
-								Universitas Negeri Malang
+								Institut Teknologi Bandung
 							</h2>
 							<h3 className="text-md font-normal mb-3">
-								S1 Teknik Informatika | Computer Science
+								S1 Meteorologi | Meteorology
 							</h3>
+							<h4 className="text-md font-normal mb-3">
+								S2 Teknik Air Tanah | Groundwater Engineering
+							</h4>
+							</div>
 							<div className="gap-4 mb-4 flex items-stretch md:h-[300px] xl:h-[400px]">
 								<div className="flex-[1] transition-all duration-300 ease-in-out hover:flex-[3] group">
 									<Image
@@ -204,54 +152,32 @@ export default function Education() {
 							</div>
 							<div className="flex items-center gap-2">
 								<p className="text-gray-600 text-justify title text-lg">
-									Aspiring to become a professional Software Engineer, I&rsquo;m
-									currently pursuing my Bachelor&rsquo;s degree in{" "}
+									Aspiring to become a professional Data Analyst and Hydrogeologist , I took
+									my Bachelor&rsquo;s degree in{" "}
 									<span className="text-black font-medium">
-										Computer Science
+										Meteorology
 									</span>{" "}
 									at{" "}
 									<span className="text-black font-medium">
-										Universitas Negeri Malang
+										Insitut Teknologi Bandung
 									</span>
-									. My journey in tech is driven by curiosity and
-									creativity—combining web development with cutting-edge AI
-									research and implementation.
+									. My journey across climate, weather, and earth sciences is shaped by curiosity and innovation—combining environmental expertise, data analysis, and AI-driven problem-solving.
 									<br />
 									<br />
-									As the{" "}
+									I&rsquo;m driven by the challenge of analyzing and understanding earth systems through the combined lens of{" "}
 									<span className="text-black font-medium">
-										Co-Lead of Google Developer Group on Campus (GDGoC)
-									</span>{" "}
-									at my university, I&rsquo;ve led technical initiatives,
-									mentored peers, and helped build impactful digital solutions.
-									I&rsquo;ve actively participated in various{" "}
-									<span className="text-black font-medium">
-										national or international technology competitions
+									meteorology and groundwater engineering
 									</span>
-									, earning recognition through awards such as{" "}
-									<span className="text-black font-medium">
-										PIMNAS Finalist, Indonesia Inventor Day Gold Medalist, Top 3
-										at LIDM 2024
-									</span>
-									, and more.
-									<br />
-									<br />I am passionate about solving real-world problems
-									through code, especially at the intersection of{" "}
-									<span className="text-black font-medium">
-										Web Development
-									</span>{" "}
-									and{" "}
-									<span className="text-black font-medium">
-										Artificial Intelligence
-									</span>
-									. Constantly learning, building, and collaborating—I&rsquo;m
-									excited to keep growing and contributing to the evolving tech
-									landscape.
-								</p>
+									. My interests include hydro-meteorological processes, environmental data analysis, and the assessment of water-related hazards and sustainability issues. I strive to keep growing, improving, and contributing to research and solutions that support resilient environmental management.
+									</p>
 							</div>
 							<div className="flex flex-wrap gap-2 mt-4 text-sm">
 								<div className="bg-gray-300 text-black px-2 py-1 rounded-2xl">
-									GPA: 3.9 out of 4
+									GPA: 3.18 out of 4 (Bachelor's GPA)
+									</div>
+									<div className="flex flex-wrap gap-2 mt-4 text-sm">
+								<div className="bg-gray-300 text-black px-2 py-1 rounded-2xl">
+									GPA: 3.85 out of 4 (Master's GPA)
 								</div>
 							</div>
 						</div>
