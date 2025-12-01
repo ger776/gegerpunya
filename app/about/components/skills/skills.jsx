@@ -31,7 +31,7 @@ const skillCategories = {
 			"NodeJS",
 			
 		],
-		tools: ["Visual Studio Code", "Github", "Google Colab"],
+		tools: ["Visual Studio Code", "GitHub", "Google Colab"],
 	},
 	ai: {
 		title: "Research & Writing",
